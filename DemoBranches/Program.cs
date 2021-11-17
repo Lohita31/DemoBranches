@@ -8,6 +8,7 @@ namespace DemoBranches
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Master DemoBranches");
+            Console.WriteLine("Created Branch 1");
         }
     }
 }
